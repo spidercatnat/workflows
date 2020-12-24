@@ -12,13 +12,6 @@ A collection of personal workflows for different types of projects. All work is 
 
 I did a Vue project for a freelance client once. This is the corpse of said project. I have some house cleaning to do here. Personally, I prefer React.
 
-### react-audio-worklet-example 
-
-Companion to the Medium article [Implementing AudioWorklets with React](https://medium.com/hackernoon/implementing-audioworklets-with-react-8a80a470474).
-
-### responsive-react-canvas 
-I might be a little bit biased, but this is by far my favorite workflow for Canvas API projects. Minimize boilerplate and get mobile responsiveness out-of-the-box!
-
 ### socket-wrench
 My most up-to-date workflow for full-stack JavaScript applications. See [Not Another React State Management Article!](https://medium.com/@spidercatnat/not-another-react-state-management-article-9dfbfab0a077)
 
@@ -26,3 +19,5 @@ My most up-to-date workflow for full-stack JavaScript applications. See [Not Ano
 ### ofxAddonBp
 Docs on how to structure and publish openFrameworks addons are convoluted and out of date. This is a simple starting point. I need to get around to walking the walk though, and actually write the README.
 
+## Python
+I use Anaconda and Jupyter Notebooks like the rest of you ;-)
