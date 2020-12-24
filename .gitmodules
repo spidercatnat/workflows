@@ -1,0 +1,18 @@
+[submodule "socket-wrench"]
+	path = socket-wrench
+	url = https://github.com/spidercatnat/socket-wrench.git
+[submodule "responsive-react-canvas"]
+	path = responsive-react-canvas
+	url = https://github.com/spidercatnat/responsive-react-canvas.git
+[submodule "mevnbp"]
+	path = mevnbp
+	url = https://github.com/spidercatnat/mevnbp.git
+[submodule "gobp"]
+	path = gobp
+	url = https://github.com/spidercatnat/gobp
+[submodule "ofxAddonBp"]
+	path = ofxAddonBp
+	url = https://github.com/spidercatnat/ofxAddonBp
+[submodule "react-audio-worklet-example"]
+	path = react-audio-worklet-example
+	url = https://github.com/spidercatnat/react-audio-worklet-example
