@@ -10,3 +10,6 @@
 [submodule "ofxAddonBp"]
 	path = ofxAddonBp
 	url = https://github.com/spidercatnat/ofxAddonBp
+[submodule "react-canvas-drawing-board"]
+	path = react-canvas-drawing-board
+	url = https://github.com/spidercatnat/react-canvas-drawing-board
